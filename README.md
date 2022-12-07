@@ -5,7 +5,7 @@ Day | Part 1 | Part 2 |
 3 | Raku | Raku |
 4 | Raku | Raku |
 5 | Raku | Raku |
-6 |  |  |
+6 | Raku | Raku |
 7 |  |  |
 8 |  |  |
 9 |  |  |
